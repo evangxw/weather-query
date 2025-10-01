@@ -1,0 +1,13 @@
+/* src/index.css (最终版) */
+
+body {
+  margin: 0;
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  background-color: #f0f2f5;
+  
+  /* 下面这三行负责把所有东西都扔到屏幕正中间 */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
