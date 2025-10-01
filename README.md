@@ -6,8 +6,7 @@ A clean and simple web application that allows users to get real-time weather in
 
 ---
 
-![App Screenshot](https://imgur.com/a/pq4jUFC) 
-*(Note: This is a placeholder image. You can add a screenshot of your own running application here!)*
+![App Screenshot](https://i.imgur.com/RC3IYii.png) 
 
 ## Features
 
