@@ -2,11 +2,11 @@
 
 A clean and simple web application that allows users to get real-time weather information for any city in the world. This project was built to practice fundamental concepts of React and TypeScript.
 
-**Live Demo:** [**Link to Your Deployed Site Will Go Here**](https://) 
+**Live Demo:** [**(https://weather-query-eight.vercel.app/)**](https://weather-query-eight.vercel.app/) 
 
 ---
 
-![App Screenshot](https://i.imgur.com/placeholder.png) 
+![App Screenshot](https://imgur.com/a/pq4jUFC) 
 *(Note: This is a placeholder image. You can add a screenshot of your own running application here!)*
 
 ## Features
@@ -31,7 +31,7 @@ To run this project on your local machine, follow these steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/weather-query.git](https://github.com/your-username/weather-query.git)
+    git clone [https://github.com/evangxw/weather-query.git](https://github.com/evangxw/weather-query.git)
     ```
 
 2.  **Navigate into the project directory:**
